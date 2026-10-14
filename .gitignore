@@ -221,3 +221,6 @@ __marimo__/
 
 # frost.met key text file
 key.yaml 
+
+# backup copy of weather while figuring out how git will handle merge conflicts
+weather - Copy.ipynb
